@@ -1,0 +1,124 @@
+
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÎĞúÇúÿÿÿÿ8ûÁ˜î£.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ıË¼ú8ß•ï£.
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(ÜËñ¼8¢ÑÃï£.
+U
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¥ê78¢ÑÃï£.
+\
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ÃÌÂÑÿÿÿÿÿ8óèÃï£.
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8óèÃï£.
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ó›•ºıÿÿÿÿ8½„ï£.
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8ß÷Áï£.
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(…§Äóıÿÿÿÿ8óèÃï£.
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÓíÈşÿÿÿÿ8óèÃï£.
+Msquid:S1659k"*Declare "phone_number" on a separate line.(³ÓíÈşÿÿÿÿ8¢ÑÃï£.
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(™òü•ıÿÿÿÿ8óèÃï£.
+Jsquid:S1659j"'Declare "last_name" on a separate line.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(‰ÎŒšşÿÿÿÿ8ùÚÁæ£.
+\
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(“ù¯„şÿÿÿÿ8óèÃï£.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ì©Á€şÿÿÿÿ8˜·¾æ£.
+W
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ÜËñ¼8óèÃï£.
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(æÄš¡øÿÿÿÿ8¢ÑÃï£.
+tsquid:S1192d"WDefine a constant instead of duplicating this literal "dane_samochodu.rocznik" 3 times.(ÄÁ‚Z8™ğÂï£.
+Nsquid:S1659"*Declare "phone_number" on a separate line.(³ÓíÈşÿÿÿÿ8óèÃï£.
+Ksquid:S1659"'Declare "last_name" on a separate line.(¢æëÕøÿÿÿÿ8óèÃï£.
+W
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ÇğÕ8óèÃï£.
+W
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ÀÅè»8óèÃï£.
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(÷»ÌÍıÿÿÿÿ8ûÁ˜î£.
+Fsquid:S1659""Declare "name" on a separate line.(¢æëÕøÿÿÿÿ8óèÃï£.
+Rsquid:S1659j"/Declare "order_description" on a separate line.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8óèÃï£.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(å˜ û8ûÁ˜î£.
+V
+squid:S106•"9Replace this use of System.out or System.err by a logger.(¼ë¾l8óèÃï£.
+\
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(æÄš¡øÿÿÿÿ8óèÃï£.
+W
+squid:S106”"9Replace this use of System.out or System.err by a logger.(¢¬öÃ8óèÃï£.
+W
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8î‘Äï£.
+[
+squid:S106p"9Replace this use of System.out or System.err by a logger.(«½éÁüÿÿÿÿ8¢ÑÃï£.
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Ûàáùÿÿÿÿ8óèÃï£.
+Ssquid:S1659"/Declare "order_description" on a separate line.(¢æëÕøÿÿÿÿ8óèÃï£.
+usquid:S00117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÓíÈşÿÿÿÿ8¢ÑÃï£.
+U
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÓÆ´f8º¼µï£.
+Fsquid:S1659j"#Declare "brand" on a separate line.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+V
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8¹¹Âï£.
+Gsquid:S1659"#Declare "model" on a separate line.(¢æëÕøÿÿÿÿ8óèÃï£.
+\
+squid:S106—"9Replace this use of System.out or System.err by a logger.(¹ÌÓ³øÿÿÿÿ8óèÃï£.
+\
+squid:S106±"9Replace this use of System.out or System.err by a logger.(íÛç¢şÿÿÿÿ8óèÃï£.
+W
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(¦–êù8óèÃï£.
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8óèÃï£.
+vsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÓíÈşÿÿÿÿ8óèÃï£.
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÔÇÿù8˜·¾æ£.
+usquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+\"squid:SwitchLastCaseIsDefaultCheck'""Add a default case to this switch.(©Øûºûÿÿÿÿ8ûÁ˜î£.
+usquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(Ú¶ñÏ8™ğÂï£.
+[
+squid:S106q"9Replace this use of System.out or System.err by a logger.(ËïÚüÿÿÿÿ8¢ÑÃï£.
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ÌÖ•æ8óèÃï£.
+W
+squid:S106š"9Replace this use of System.out or System.err by a logger.(›à§º8óèÃï£.
+\
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ışó¢ùÿÿÿÿ8óèÃï£.
+Fsquid:S1659j"#Declare "model" on a separate line.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ışó¢ùÿÿÿÿ8¢ÑÃï£.
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.( ¯ßµ8ûÁ˜î£.
+\
+squid:S106©"9Replace this use of System.out or System.err by a logger.(ËïÚüÿÿÿÿ8óèÃï£.
+usquid:S00117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÓíÈşÿÿÿÿ8¢ÑÃï£.
+Gsquid:S1659"#Declare "brand" on a separate line.(¢æëÕøÿÿÿÿ8óèÃï£.
+[
+squid:S106n"9Replace this use of System.out or System.err by a logger.(“ù¯„şÿÿÿÿ8¢ÑÃï£.
+V
+squid:S106l"9Replace this use of System.out or System.err by a logger.(øæşç8¢ÑÃï£.
+U
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Üşñ)8¢ÑÃï£.
+usquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+Esquid:S1659j""Declare "name" on a separate line.(¢æëÕøÿÿÿÿ8¢ÑÃï£.
+[
+squid:S106u"9Replace this use of System.out or System.err by a logger.(íÛç¢şÿÿÿÿ8¢ÑÃï£.
+W
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(øæşç8óèÃï£.
+W
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(¢û­8óèÃï£.
+>squid:S1659" Declare "to" on a separate line.(Ğóœ8ôÅñ£.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á± ‘ÿÿÿÿÿ8ôÅñ£.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÉá8ôÅñ£.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Œ±¢8ôÅñ£.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²¬»†úÿÿÿÿ8ôÅñ£.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëÿ–¹şÿÿÿÿ8ôÅñ£.
